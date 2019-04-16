@@ -1,2 +1,1 @@
-# kotlin_learnin
-Kotlin Examples
+# kotlin learnin
